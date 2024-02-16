@@ -1,2 +1,2 @@
-# DIO-UX-Design-QiGo-Wireframe
+# DIO-UX-Design-App-QiGo
 Wireframe produzido para App com aulas de Chi Kung/Qi Gong.
